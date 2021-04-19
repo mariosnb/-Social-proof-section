@@ -157,7 +157,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 375px) {
   .container {
     display: block;
   }
@@ -184,7 +184,7 @@ body {
   }
 
   .rates-r1, .rates-r2, .rates-r3{
-    width: 82%;
+    width: 79%;
     margin-left: 0;
     margin-right: 0;
   }
