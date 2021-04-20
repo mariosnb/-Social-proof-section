@@ -180,13 +180,28 @@ body {
   }
 
   .rates{
+    width: 100%;
     padding-top: 20px;
+  }
+
+  .stars{
+    padding: 3px;
+    padding-bottom: 5px;
+  }
+
+  .rate-stars{
+    padding: 3px;
   }
 
   .rates-r1, .rates-r2, .rates-r3{
     width: 79%;
     margin-left: 0;
     margin-right: 0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
   }
 
   .testimonials{
