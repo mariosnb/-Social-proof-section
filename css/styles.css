@@ -194,9 +194,9 @@ body {
   }
 
   .rates-r1, .rates-r2, .rates-r3{
-    width: 79%;
-    margin-left: 0;
-    margin-right: 0;
+    width: 78%;
+    margin-left: auto;
+    margin-right: auto;
     padding-top: 10px;
     padding-bottom: 20px;
     display: flex;
