@@ -215,8 +215,4 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
-  @media screen and (max-width: 375px) {
-    .rates-r1, .rates-r2, .rates-r3{
-      width: 70%;
-    }
 }
