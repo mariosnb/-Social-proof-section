@@ -217,6 +217,6 @@ body {
   }
   @media screen and (max-width: 375px) {
     .rates-r1, .rates-r2, .rates-r3{
-      width: 80%;
+      width: 75%;
     }
 }
