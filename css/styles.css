@@ -222,7 +222,7 @@ body {
       width: 100%;
     }
     .tst{
-      margin-right: auto;
+      width:10px;
     }
   }
 }
